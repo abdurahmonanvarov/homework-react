@@ -6,7 +6,7 @@ function Home() {
        <div className='vidios'>
                 <h5 id='salomlar'>Works</h5>
                 <div className='vidios__info'>
-                    <img src="./public/sxema.png" alt="" />
+                    <img src="../public/sxema.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
@@ -20,7 +20,7 @@ function Home() {
                     </div>
                 </div>
                 <div className='vidios__info'>
-                    <img src="./public/girl.png" alt="" />
+                    <img src="../public/girl.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
@@ -34,7 +34,7 @@ function Home() {
                     </div>
                 </div>
                 <div className='vidios__info'>
-                    <img src="./public/alogo.png" alt="" />
+                    <img src="../public/alogo.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
@@ -49,7 +49,7 @@ function Home() {
                 </div>
 
                 <div className='vidios__info'>
-                    <img src="./public/imlast.png" alt="" />
+                    <img src="../public/imlast.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>

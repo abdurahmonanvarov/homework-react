@@ -51,7 +51,7 @@ function AllInfo() {
             <div className='vidios'>
                 <h5>Featured works</h5>
                 <div className='vidios__info'>
-                    <img src="./public/sxema.png" alt="" />
+                    <img src="../public/sxema.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
@@ -65,7 +65,7 @@ function AllInfo() {
                     </div>
                 </div>
                 <div className='vidios__info'>
-                    <img src="./public/girl.png" alt="" />
+                    <img src="../public/girl.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
@@ -79,7 +79,7 @@ function AllInfo() {
                     </div>
                 </div>
                 <div className='vidios__info'>
-                    <img src="./public/alogo.png" alt="" />
+                    <img src="../public/alogo.png" alt="" />
                     <div className='info__png'>
                         <h2>Designing Dashboards</h2>
                         <div className='png'>
